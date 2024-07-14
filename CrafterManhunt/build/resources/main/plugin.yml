@@ -1,0 +1,7 @@
+name: CrafterManhunt
+version: '1.0'
+main: me.craftermanhunt.CrafterManhunt
+api-version: '1.20'
+commands:
+  crafter:
+    usage: "§c/crafter <time设置时间 stoptime停止时间 pausetime暂停时间 resumetime继续时间 task领取制作任务>"
