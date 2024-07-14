@@ -1,2 +1,20 @@
-# Minecraft-Crafter-vs-Hunter-Plugins-
-Minecraft Crafter vs Hunter Plugins 我的世界 制作者 对战 猎人 插件
+# 我的世界 制作者vs猎人 插件
+中国人自制插件 简单使用 特别适合想玩猎人游戏制作者挑战的人们
+
+# 1.规则
+玩家可使用指令进行倒计时 并利用指令获取要合成的物品
+如果逃脱者在规定的时间内合成出了系统给的任务则算逃脱者胜利
+如果逃脱者在规定的时间内死亡或倒计时结束为做完物品则算猎人胜利
+
+# 2.使用教程
+/crafter time <时间> - 进行倒计时 时间单位为分钟
+/crafter pausetime   - 进行暂停倒计时
+/crafter resumetime  - 进行播放倒计时
+/crafter stoptime    - 进行停止倒计时
+/crafter task        - 进行领取任务
+
+# 3.常见问题
+问：插件支持什么版本
+搭：1.20.4及以上
+问：插件是否可进行配置任何
+搭：当然可以 我们的插件可自由进行配置任务
